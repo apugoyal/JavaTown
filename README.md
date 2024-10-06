@@ -1,3 +1,3 @@
 # JavaTown
 
-A place to learn and experiment Java.
+A place to learn and experiment with Java.
